@@ -1,4 +1,4 @@
-# 🌱 AI-for-sustainable-choices
+# 🌱 AI for sustainable choices
 
 **AI for Sustainable Choices** is a data-driven tool that helps users measure, track, and reduce their environemental footprnt.
 By combining open sustainability datasets with Python, the project translates everyday activities, such as eating, commuting, or using electricity, into **CO₂ emissions, water use, and land footprint**.
